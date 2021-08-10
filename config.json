@@ -1,0 +1,37 @@
+{
+    "bots":{
+        "footer":"Solve was here?",
+        "VoiceChannel":"Bot sesli kanal",
+        "status":"Solve 🖤 Github"
+    },
+
+    "register":{
+        "tag":"",
+        "etag":"",
+        "erkekRole":[""],
+        "kizRole":[""],
+        "unregister":"",
+        "registerian":""
+    },
+
+    "sunucu": {
+        "guildId": ""
+    },
+    
+    "mod":{
+        "jailRole":"",
+        "jailLog":"",
+        "jailHam":"",
+
+        "muteRole":"",
+        "muteHam":"",
+        "muteLog":"",
+
+        "banHam":""
+    },
+
+    "channellar":{
+        "genel":"",
+        "rules":""
+    }
+}
